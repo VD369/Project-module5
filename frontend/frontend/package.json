@@ -31,7 +31,7 @@
 		"simple-react-validator": "^1.6.1",
 		"ts-node": "^10.9.1",
 		"uninstall": "^0.0.0",
-		"validator": "^13.7.0"
+		"validator": "^13.15.20"
 	},
 	"devDependencies": {
 		"@types/bootstrap": "^5.2.0",
